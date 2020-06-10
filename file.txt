@@ -1,1 +1,4 @@
-1. i am learning git 
+1. i am learning git
+
+yo whaddup nerds. just a git collaborator doing work... yo
+ 
